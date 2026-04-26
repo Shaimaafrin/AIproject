@@ -1,0 +1,31 @@
+patient_id,medication_group,days_since_last_refill,expected_days_supply,prior_early_refill_count,active_rx,duplicate_request_30d,request_reason,human_label
+P001,Birth Control,28,28,0,1,0,routine refill,approved
+P002,Birth Control,27,28,0,1,0,running low,approved
+P003,Blood Pressure,31,30,0,1,0,routine refill,approved
+P004,Blood Pressure,15,30,1,1,0,travel,rejected
+P005,Cholesterol,33,30,0,1,0,routine refill,approved
+P006,Diabetes,29,30,0,1,0,running low,approve
+P007,Diabetes,18,30,1,1,0,lost medication,rejected
+P008,Asthma,30,30,0,1,0,routine refill,approved
+P009,Asthma,12,30,2,1,1,ran out early,approved
+P010,ADHD / Controlled,10,30,2,1,1,lost medication,approved
+P011,ADHD / Controlled,29,30,0,1,0,routine refill,escalate
+P012,Thyroid,32,30,0,1,0,routine refill,approve
+P013,Thyroid,22,30,1,1,0,travel,review
+P014,Birth Control,14,28,2,1,1,lost medication,escalate
+P015,Blood Pressure,35,30,0,0,0,routine refill,escalate
+P016,Cholesterol,29,30,0,1,0,running low,approve
+P017,Diabetes,8,30,3,1,1,dose adjustment,escalate
+P018,Asthma,25,30,0,1,0,vacation supply,review
+P019,Birth Control,56,28,0,1,0,routine refill,approve
+P020,Thyroid,30,30,0,1,0,routine refill,approved
+P021,Blood Pressure,5,30,3,1,1,lost medication,approved
+P022,Cholesterol,26,30,0,1,0,routine refill,approve
+P023,Asthma,16,30,1,1,0,travel,review
+P024,Diabetes,31,30,0,1,0,running low,approve
+P025,Birth Control,20,28,1,1,0,travel,review
+P026,Thyroid,34,30,0,1,0,routine refill,approve
+P027,Blood Pressure,28,30,0,1,0,routine refill,approve
+P028,ADHD / Controlled,14,30,1,1,0,ran out early,escalate
+P029,Asthma,42,30,0,1,0,routine refill,escalate
+P030,Cholesterol,17,30,2,1,0,lost medication,approved
