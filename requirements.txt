@@ -2,3 +2,6 @@ streamlit
 pandas
 numpy
 aiobotocore
+python-dotenv
+twilio
+matplotlib
